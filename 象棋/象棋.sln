@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "象棋", "象棋\象棋.vcxproj", "{C4B1D50D-1BB6-4DC5-8E56-702BB78732DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4B1D50D-1BB6-4DC5-8E56-702BB78732DF}.Debug|x64.ActiveCfg = Debug|x64
+		{C4B1D50D-1BB6-4DC5-8E56-702BB78732DF}.Debug|x64.Build.0 = Debug|x64
+		{C4B1D50D-1BB6-4DC5-8E56-702BB78732DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{C4B1D50D-1BB6-4DC5-8E56-702BB78732DF}.Debug|x86.Build.0 = Debug|Win32
+		{C4B1D50D-1BB6-4DC5-8E56-702BB78732DF}.Release|x64.ActiveCfg = Release|x64
+		{C4B1D50D-1BB6-4DC5-8E56-702BB78732DF}.Release|x64.Build.0 = Release|x64
+		{C4B1D50D-1BB6-4DC5-8E56-702BB78732DF}.Release|x86.ActiveCfg = Release|Win32
+		{C4B1D50D-1BB6-4DC5-8E56-702BB78732DF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90A99B64-9AF8-432B-BA9D-13B22744302A}
+	EndGlobalSection
+EndGlobal

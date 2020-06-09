@@ -1,0 +1,28 @@
+﻿  Source.cpp
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(271): warning C4101: 'WriteWord': 未參考的區域變數
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(310): warning C4101: 'WriteWord': 未參考的區域變數
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(340): warning C4101: 'WriteWord': 未參考的區域變數
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(377): warning C4101: 'WriteWord': 未參考的區域變數
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1144): warning C4018: '<': signed/unsigned 不相符
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1166): warning C4018: '<': signed/unsigned 不相符
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1188): warning C4018: '<': signed/unsigned 不相符
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1210): warning C4018: '<': signed/unsigned 不相符
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1233): warning C4018: '<': signed/unsigned 不相符
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1269): warning C4018: '<': signed/unsigned 不相符
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1303): warning C4018: '<': signed/unsigned 不相符
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1337): warning C4018: '<': signed/unsigned 不相符
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1363): warning C4805: '==': 作業中不安全的混用類型 'int' 和類型 'bool'
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1372): warning C4805: '==': 作業中不安全的混用類型 'int' 和類型 'bool'
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1411): warning C4805: '==': 作業中不安全的混用類型 'int' 和類型 'bool'
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1419): warning C4805: '==': 作業中不安全的混用類型 'int' 和類型 'bool'
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1446): warning C4018: '<': signed/unsigned 不相符
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1468): warning C4018: '<': signed/unsigned 不相符
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1490): warning C4018: '<': signed/unsigned 不相符
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1512): warning C4018: '<': signed/unsigned 不相符
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1535): warning C4018: '<': signed/unsigned 不相符
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1569): warning C4018: '<': signed/unsigned 不相符
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1603): warning C4018: '<': signed/unsigned 不相符
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1637): warning C4018: '<': signed/unsigned 不相符
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1767): warning C4101: 'turn': 未參考的區域變數
+c:\users\謝豐檍\source\repos\象棋\象棋\source.cpp(1790): warning C4101: 'WriteWord': 未參考的區域變數
+  象棋.vcxproj -> C:\Users\謝豐檍\source\repos\象棋\Debug\象棋.exe
